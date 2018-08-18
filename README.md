@@ -1,2 +1,3 @@
 # RegularLessonsPY
 Making some changes here to understand commit...
+To understand merging through pull request!
