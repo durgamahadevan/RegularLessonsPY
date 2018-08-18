@@ -1,2 +1,2 @@
 # RegularLessonsPY
-My regular coding practice
+Making some changes here to understand commit...
